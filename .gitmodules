@@ -1,0 +1,6 @@
+[submodule "frontend"]
+	path = frontend
+	url = https://github.com/anhphapap/VaccinationCenter_FrontEnd.git
+[submodule "backend"]
+	path = backend
+	url = https://github.com/anhphapap/VaccinationCenter_BackEnd.git
