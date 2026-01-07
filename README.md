@@ -1,6 +1,6 @@
 <div align="center">
   <br />
-  <img src="public/banner.png" alt="Vaccination Center Banner" />
+  <img src="public/banner.webp" alt="Vaccination Center Banner" />
   <br /><br />
 
   <!-- Tech Stack Badges -->
