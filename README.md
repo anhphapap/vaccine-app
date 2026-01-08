@@ -27,7 +27,7 @@
     <a href="https://github.com/anhphapap">@anhphapap</a>
     &nbsp;•&nbsp;
     <strong>Backend</strong> by
-    <a href="https://github.com/godreplyme">@godreplyme</a>
+    <a href="https://github.com/hoofdux243">@hoofdux243</a>
   </p>
 </div>
 
@@ -125,4 +125,4 @@ const BASE_URL = "http://<your-local-ip>:8000/api/";
 | Name          | Role       | GitHub                                       |
 | ------------- | ---------- | -------------------------------------------- |
 | Pham Anh Pha  | Frontend   | [@anhphapap](https://github.com/anhphapap)   |
-| Nguyen Ho Vu  | Backend    | [@godreplyme](https://github.com/godreplyme) |
+| Nguyen Ho Vu  | Backend    | [@hoofdux243](https://github.com/hoofdux243) |
